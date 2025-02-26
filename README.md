@@ -1,7 +1,6 @@
 # Clustering for learners
-# Driver_churn_ensemble_learning
 
-# Unsupervised Learning - Clustering 📊
+## Unsupervised Learning - Clustering 📊
 
 Welcome to the project! 🎉 
 
